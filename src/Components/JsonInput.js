@@ -103,7 +103,7 @@ export default class JsonInput extends Component {
               onChange={this.handleChange}
             />
           </label>
-          <input type='submit' value='Submit' />
+          <input type='submit' value='Convert' />
         </form>
         <div id='output'></div>
       </div>
